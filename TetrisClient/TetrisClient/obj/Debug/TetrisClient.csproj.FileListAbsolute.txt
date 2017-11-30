@@ -1,0 +1,6 @@
+D:\ENGINEERING\Design Pattern\Tetris\TetrisClient\TetrisClient\bin\Debug\TetrisClient.exe.config
+D:\ENGINEERING\Design Pattern\Tetris\TetrisClient\TetrisClient\bin\Debug\TetrisClient.exe
+D:\ENGINEERING\Design Pattern\Tetris\TetrisClient\TetrisClient\bin\Debug\TetrisClient.pdb
+D:\ENGINEERING\Design Pattern\Tetris\TetrisClient\TetrisClient\obj\Debug\TetrisClient.csproj.CoreCompileInputs.cache
+D:\ENGINEERING\Design Pattern\Tetris\TetrisClient\TetrisClient\obj\Debug\TetrisClient.exe
+D:\ENGINEERING\Design Pattern\Tetris\TetrisClient\TetrisClient\obj\Debug\TetrisClient.pdb
