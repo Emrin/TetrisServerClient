@@ -5,14 +5,14 @@ using System.Text;
 
 
 /// <summary>
-/// CLIENT
+/// CLIENT [receives game state and 
 /// </summary>
 public class SynchronousSocketClient
 {
 
     public static void StartClient()
     {
-        bool game = true;  
+        bool started = true;  
         byte[] bytes = new byte[1024]; // Data buffer for incoming data.
 
         try // Connect to a remote device. 
@@ -33,7 +33,7 @@ public class SynchronousSocketClient
                 int bytesSent;
                 int bytesRec;
 
-                while (game)
+                while (started)
                 {
                     Console.WriteLine("--------------------------");
                     Console.WriteLine("Play your next move!");
@@ -44,6 +44,7 @@ public class SynchronousSocketClient
                     bytesRec = sender.Receive(bytes); // Receive the response from the remote device.  
                     Console.WriteLine(Encoding.ASCII.GetString(bytes, 0, bytesRec));
                     //("Echoed test = {0}", Encoding.ASCII.GetString(bytes, 0, bytesRec));
+                    //TODO game over message and tracker
                 }
                 
                 // Release the socket.

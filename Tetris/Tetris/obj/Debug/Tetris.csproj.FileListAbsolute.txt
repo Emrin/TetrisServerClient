@@ -12,3 +12,10 @@ D:\Engineering\PROJECTS\Tetris\Tetris\Tetris\obj\Debug\Tetris.pdb
 D:\Engineering\PROJECTS\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe.config
 D:\Engineering\PROJECTS\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe
 D:\Engineering\PROJECTS\Tetris\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\ENGINEERING\Design Pattern\GIT\TetrisServerClient\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\ENGINEERING\Design Pattern\GIT\TetrisServerClient\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\ENGINEERING\Design Pattern\GIT\TetrisServerClient\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\ENGINEERING\Design Pattern\GIT\TetrisServerClient\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+D:\ENGINEERING\Design Pattern\GIT\TetrisServerClient\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\ENGINEERING\Design Pattern\GIT\TetrisServerClient\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\ENGINEERING\Design Pattern\GIT\TetrisServerClient\Tetris\Tetris\obj\Debug\Tetris.pdb
